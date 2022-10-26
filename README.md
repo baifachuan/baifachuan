@@ -6,7 +6,7 @@
 
 深度神经网络框架：DeepLearning.scala 发起人之一， 《TensorFlow & 神经网络算法高级应用班》系列课程讲师。
 
-更多信息：[点击进入：个人主页](https://baifachuan.com)
+更多信息：[点击进入：个人主页](https://baifachuan.com/about/)
 
 
 <!--
